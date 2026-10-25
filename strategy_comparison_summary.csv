@@ -1,0 +1,11 @@
+metric,value
+aligned_days,188.0
+ml_mean_spread,0.003990734450094431
+momentum_mean_spread,0.0026956492297618966
+mean_incremental_spread,0.0012950852203325348
+std_incremental_spread,0.05984968084609818
+naive_t_statistic,0.29669855622172375
+bootstrap_95ci_lower,-0.012677764637388709
+bootstrap_95ci_upper,0.01668562635522342
+block_length,5.0
+bootstrap_repetitions,5000.0
